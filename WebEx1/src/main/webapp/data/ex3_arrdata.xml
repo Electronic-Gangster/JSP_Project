@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bitcamp>
+	<stu name="윤석열">
+		<java>89</java>
+		<spring>100</spring>
+		<html>78</html>
+	</stu>
+	<stu name="문재인">
+		<java>98</java>
+		<spring>45</spring>
+		<html>76</html>
+	</stu>
+	<stu name="박근혜">
+		<java>34</java>
+		<spring>59</spring>
+		<html>93</html>
+	</stu>
+	<stu name="이명박">
+		<java>12</java>
+		<spring>34</spring>
+		<html>45</html>
+	</stu>
+	<stu name="노무현">
+		<java>56</java>
+		<spring>67</spring>
+		<html>78</html>
+	</stu>
+</bitcamp>

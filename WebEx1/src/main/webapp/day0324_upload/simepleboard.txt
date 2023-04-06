@@ -1,0 +1,16 @@
+create table simpleboard(
+	num smallint auto_increment primary key,
+    writer varchar(20) not null,
+    subject varchar(200) not null,
+    content varchar(500) not null,
+    photo varchar(100),
+    readcount smallint default 0,
+    writeday datetime default now()
+);
+
+문서 작성 순서
+
+1. MYSQL에서 데이터를 담을 테이블을 생성한다.
+2. Dto 문서를 작성한다.
+3. Dao 문서를 작성한다.
+4. 보드리스트 부터 작성한다.
